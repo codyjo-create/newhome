@@ -1,0 +1,6 @@
+{
+  "name": "조코디(AXCody) 2027 대학교 AI 교육 체계",
+  "description": "2027년 대학교 AI 교육 체계 준비를 위한 조코디(AXCody)의 신입생·재학생·교직원·교수진 맞춤형 AI 커리큘럼 및 무료 방문 설명회 안내 홈페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
